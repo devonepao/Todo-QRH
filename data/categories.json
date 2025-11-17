@@ -1,0 +1,26 @@
+[
+  {
+    "id": "travel",
+    "name": "Travel",
+    "icon": "✈️",
+    "description": "Travel and transportation checklists"
+  },
+  {
+    "id": "daily",
+    "name": "Daily Routines",
+    "icon": "📅",
+    "description": "Everyday tasks and routines"
+  },
+  {
+    "id": "vehicle",
+    "name": "Vehicle Care",
+    "icon": "🚗",
+    "description": "Car and vehicle maintenance"
+  },
+  {
+    "id": "leisure",
+    "name": "Leisure",
+    "icon": "🏖️",
+    "description": "Vacation and leisure activities"
+  }
+]

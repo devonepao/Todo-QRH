@@ -1,0 +1,101 @@
+[
+  {
+    "id": "airport-travel",
+    "name": "Airport Travel",
+    "icon": "🛫",
+    "category": "travel",
+    "description": "Everything you need before heading to the airport",
+    "items": [
+      "Check passport validity (6 months minimum)",
+      "Print or download boarding pass",
+      "Verify flight status and gate information",
+      "Pack carry-on bag within size limits",
+      "Check baggage weight limits",
+      "Prepare liquids in 3-1-1 compliant bag",
+      "Charge phone and portable charger",
+      "Download offline maps and entertainment",
+      "Confirm airport parking or transportation",
+      "Arrive 2-3 hours before international flight",
+      "Keep medications in original containers",
+      "Wear easy-to-remove shoes for security",
+      "Have ID and boarding pass ready",
+      "Empty water bottles before security",
+      "Secure valuables in carry-on"
+    ]
+  },
+  {
+    "id": "vacation-packing",
+    "name": "Vacation Packing",
+    "icon": "🧳",
+    "category": "leisure",
+    "description": "Complete packing list for your vacation",
+    "items": [
+      "Check weather forecast for destination",
+      "Pack appropriate clothing for activities",
+      "Include underwear and socks (one extra day)",
+      "Pack toiletries and medications",
+      "Bring phone charger and adapters",
+      "Pack sunscreen and sunglasses",
+      "Include first aid kit",
+      "Bring travel documents (passport, visas)",
+      "Pack swimwear if applicable",
+      "Include comfortable walking shoes",
+      "Bring camera or ensure phone storage",
+      "Pack reading material or e-reader",
+      "Include reusable water bottle",
+      "Bring copies of important documents",
+      "Pack small daypack for excursions",
+      "Include travel insurance documents",
+      "Bring credit cards and some local currency",
+      "Pack hat or cap for sun protection"
+    ]
+  },
+  {
+    "id": "office-daily",
+    "name": "Office Daily Checklist",
+    "icon": "💼",
+    "category": "daily",
+    "description": "Your daily routine checklist for office work",
+    "items": [
+      "Review calendar for today's meetings",
+      "Check and respond to urgent emails",
+      "Prioritize top 3 tasks for the day",
+      "Prepare materials for scheduled meetings",
+      "Take regular breaks (every 90 minutes)",
+      "Keep workspace organized and clean",
+      "Update task management system",
+      "Stay hydrated throughout the day",
+      "Review tomorrow's schedule before leaving",
+      "Back up important work files",
+      "Follow up on pending action items",
+      "Network or chat with colleagues",
+      "Eat a proper lunch away from desk",
+      "Check in with team members",
+      "End day by planning tomorrow's priorities"
+    ]
+  },
+  {
+    "id": "car-fuel-up",
+    "name": "Car Fuel Stop",
+    "icon": "⛽",
+    "category": "vehicle",
+    "description": "Quick checklist when fueling up your car",
+    "items": [
+      "Turn off engine completely",
+      "Check fuel grade required for your car",
+      "Open fuel door and remove cap",
+      "Insert nozzle fully into tank",
+      "Fill tank to automatic shutoff",
+      "Don't top off after auto-shutoff",
+      "Replace fuel cap securely until click",
+      "Close fuel door properly",
+      "Check tire pressure while at station",
+      "Clean windshield and mirrors",
+      "Check wiper fluid level",
+      "Inspect tires for visible damage",
+      "Check oil level if needed",
+      "Dispose of trash from car",
+      "Keep fuel receipt for records"
+    ]
+  }
+]
