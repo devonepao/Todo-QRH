@@ -105,7 +105,7 @@
     "category": "vehicle",
     "description": "Pre-Delivery Inspection checklist for buying Electric Vehicle in India",
     "items": [
-      "Verify odometer reading is zero or minimal (under 50 KM)",
+      "Verify odometer reading is zero or minimal (under 50 km)",
       "Check manufacturing date on vehicle sticker/plate",
       "Inspect panel gaps around all body panels evenly",
       "Check panel gaps specifically around headlights",
@@ -201,7 +201,7 @@
       "Verify all documents: Registration Certificate (RC), Insurance, Purchase Invoice",
       "Check warranty booklet and service schedule",
       "Verify vehicle chassis number matches documents",
-      "Check engine number matches documents (if applicable for EV)",
+      "Verify motor/VIN number matches documents",
       "Verify all owner manuals provided (vehicle, infotainment, warranty)",
       "Check for any pending software updates available",
       "Verify vehicle delivery checklist signed by dealer",
